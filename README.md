@@ -1,0 +1,1 @@
+# AI-Based-Cloud-Resource-Waste-Detection
